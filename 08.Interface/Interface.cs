@@ -23,6 +23,7 @@ namespace _08.Interface
         {
             Console.WriteLine("{0}, {1}", DateTime.Now.ToLocalTime(), message);
             Console.WriteLine("git test");
+            Console.WriteLine("git test");
         }
 
 
