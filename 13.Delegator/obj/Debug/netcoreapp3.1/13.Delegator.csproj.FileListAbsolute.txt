@@ -1,0 +1,11 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\obj\Debug\netcoreapp3.1\13.Delegator.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\obj\Debug\netcoreapp3.1\13.Delegator.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\obj\Debug\netcoreapp3.1\13.Delegator.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\obj\Debug\netcoreapp3.1\13.Delegator.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\obj\Debug\netcoreapp3.1\13.Delegator.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\bin\Debug\netcoreapp3.1\13.Delegator.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\bin\Debug\netcoreapp3.1\13.Delegator.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\bin\Debug\netcoreapp3.1\13.Delegator.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\bin\Debug\netcoreapp3.1\13.Delegator.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\bin\Debug\netcoreapp3.1\13.Delegator.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\13.Delegator\bin\Debug\netcoreapp3.1\13.Delegator.pdb

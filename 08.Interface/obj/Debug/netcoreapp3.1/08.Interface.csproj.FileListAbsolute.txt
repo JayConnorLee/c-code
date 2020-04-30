@@ -1,0 +1,11 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\bin\Debug\netcoreapp3.1\08.Interface.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\bin\Debug\netcoreapp3.1\08.Interface.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\bin\Debug\netcoreapp3.1\08.Interface.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\bin\Debug\netcoreapp3.1\08.Interface.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\bin\Debug\netcoreapp3.1\08.Interface.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\bin\Debug\netcoreapp3.1\08.Interface.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\obj\Debug\netcoreapp3.1\08.Interface.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\obj\Debug\netcoreapp3.1\08.Interface.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\obj\Debug\netcoreapp3.1\08.Interface.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\obj\Debug\netcoreapp3.1\08.Interface.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\08.Interface\obj\Debug\netcoreapp3.1\08.Interface.pdb

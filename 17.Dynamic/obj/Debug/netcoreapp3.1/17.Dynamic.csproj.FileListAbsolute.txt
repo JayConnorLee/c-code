@@ -1,0 +1,13 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\obj\Debug\netcoreapp3.1\17.Dynamic.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\obj\Debug\netcoreapp3.1\17.Dynamic.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\obj\Debug\netcoreapp3.1\17.Dynamic.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\bin\Debug\netcoreapp3.1\17.Dynamic.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\bin\Debug\netcoreapp3.1\17.Dynamic.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\bin\Debug\netcoreapp3.1\17.Dynamic.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\bin\Debug\netcoreapp3.1\17.Dynamic.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\bin\Debug\netcoreapp3.1\17.Dynamic.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\bin\Debug\netcoreapp3.1\17.Dynamic.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\obj\Debug\netcoreapp3.1\17.Dynamic.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\obj\Debug\netcoreapp3.1\17.Dynamic.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\17.Dynamic\obj\Debug\netcoreapp3.1\17.Dynamic.csproj.CopyComplete

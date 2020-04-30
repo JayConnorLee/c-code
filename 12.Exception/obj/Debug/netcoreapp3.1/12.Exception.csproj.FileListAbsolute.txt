@@ -1,0 +1,11 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\obj\Debug\netcoreapp3.1\12.Exception.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\obj\Debug\netcoreapp3.1\12.Exception.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\obj\Debug\netcoreapp3.1\12.Exception.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\obj\Debug\netcoreapp3.1\12.Exception.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\obj\Debug\netcoreapp3.1\12.Exception.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\bin\Debug\netcoreapp3.1\12.Exception.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\bin\Debug\netcoreapp3.1\12.Exception.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\bin\Debug\netcoreapp3.1\12.Exception.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\bin\Debug\netcoreapp3.1\12.Exception.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\bin\Debug\netcoreapp3.1\12.Exception.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\12.Exception\bin\Debug\netcoreapp3.1\12.Exception.pdb

@@ -1,0 +1,11 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\bin\Debug\netcoreapp3.1\18.File.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\bin\Debug\netcoreapp3.1\18.File.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\bin\Debug\netcoreapp3.1\18.File.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\bin\Debug\netcoreapp3.1\18.File.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\bin\Debug\netcoreapp3.1\18.File.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\bin\Debug\netcoreapp3.1\18.File.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\obj\Debug\netcoreapp3.1\18.File.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\obj\Debug\netcoreapp3.1\18.File.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\obj\Debug\netcoreapp3.1\18.File.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\obj\Debug\netcoreapp3.1\18.File.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\18.File\obj\Debug\netcoreapp3.1\18.File.pdb

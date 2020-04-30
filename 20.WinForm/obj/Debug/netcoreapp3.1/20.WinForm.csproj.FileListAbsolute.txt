@@ -1,0 +1,13 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\bin\Debug\netcoreapp3.1\20.WinForm.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\bin\Debug\netcoreapp3.1\20.WinForm.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\bin\Debug\netcoreapp3.1\20.WinForm.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\bin\Debug\netcoreapp3.1\20.WinForm.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\bin\Debug\netcoreapp3.1\20.WinForm.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\bin\Debug\netcoreapp3.1\20.WinForm.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\obj\Debug\netcoreapp3.1\20.WinForm.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\obj\Debug\netcoreapp3.1\20.WinForm.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\obj\Debug\netcoreapp3.1\20.WinForm.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\obj\Debug\netcoreapp3.1\20.WinForm.csproj.CopyComplete
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\obj\Debug\netcoreapp3.1\20.WinForm.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.WinForm\obj\Debug\netcoreapp3.1\20.WinForm.pdb

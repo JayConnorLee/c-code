@@ -1,0 +1,11 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\obj\Debug\netcoreapp3.1\11.Generalization.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\obj\Debug\netcoreapp3.1\11.Generalization.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\obj\Debug\netcoreapp3.1\11.Generalization.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\obj\Debug\netcoreapp3.1\11.Generalization.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\obj\Debug\netcoreapp3.1\11.Generalization.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\bin\Debug\netcoreapp3.1\11.Generalization.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\bin\Debug\netcoreapp3.1\11.Generalization.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\bin\Debug\netcoreapp3.1\11.Generalization.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\bin\Debug\netcoreapp3.1\11.Generalization.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\bin\Debug\netcoreapp3.1\11.Generalization.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\11.Generalization\bin\Debug\netcoreapp3.1\11.Generalization.pdb

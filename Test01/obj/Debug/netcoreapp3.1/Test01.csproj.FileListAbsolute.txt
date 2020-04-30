@@ -1,0 +1,11 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\obj\Debug\netcoreapp3.1\Test01.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\obj\Debug\netcoreapp3.1\Test01.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\obj\Debug\netcoreapp3.1\Test01.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\obj\Debug\netcoreapp3.1\Test01.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\obj\Debug\netcoreapp3.1\Test01.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\bin\Debug\netcoreapp3.1\Test01.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\bin\Debug\netcoreapp3.1\Test01.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\bin\Debug\netcoreapp3.1\Test01.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\bin\Debug\netcoreapp3.1\Test01.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\bin\Debug\netcoreapp3.1\Test01.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\Test01\bin\Debug\netcoreapp3.1\Test01.pdb

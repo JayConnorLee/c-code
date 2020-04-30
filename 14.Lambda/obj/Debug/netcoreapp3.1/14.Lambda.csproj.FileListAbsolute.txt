@@ -1,0 +1,11 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\bin\Debug\netcoreapp3.1\14.Lambda.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\bin\Debug\netcoreapp3.1\14.Lambda.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\bin\Debug\netcoreapp3.1\14.Lambda.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\bin\Debug\netcoreapp3.1\14.Lambda.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\bin\Debug\netcoreapp3.1\14.Lambda.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\bin\Debug\netcoreapp3.1\14.Lambda.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\obj\Debug\netcoreapp3.1\14.Lambda.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\obj\Debug\netcoreapp3.1\14.Lambda.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\obj\Debug\netcoreapp3.1\14.Lambda.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\obj\Debug\netcoreapp3.1\14.Lambda.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\14.Lambda\obj\Debug\netcoreapp3.1\14.Lambda.pdb

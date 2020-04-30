@@ -1,0 +1,11 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\bin\Debug\netcoreapp3.1\20.Winforms.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\bin\Debug\netcoreapp3.1\20.Winforms.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\bin\Debug\netcoreapp3.1\20.Winforms.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\bin\Debug\netcoreapp3.1\20.Winforms.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\bin\Debug\netcoreapp3.1\20.Winforms.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\bin\Debug\netcoreapp3.1\20.Winforms.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\obj\Debug\netcoreapp3.1\20.Winforms.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\obj\Debug\netcoreapp3.1\20.Winforms.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\obj\Debug\netcoreapp3.1\20.Winforms.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\obj\Debug\netcoreapp3.1\20.Winforms.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\20.Winforms\obj\Debug\netcoreapp3.1\20.Winforms.pdb

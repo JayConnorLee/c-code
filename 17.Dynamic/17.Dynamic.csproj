@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <assemblies>
+    <!-- <add assembly="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c"/> -->
+    <add assembly="Microsoft.Office.Interop.Excel, Version=15.0.4795.1000, Culture=neutral, PublicKeyToken=71e9bce111e9429c"/>
+  </assemblies>
+<!-- office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c -->
+  <ItemGroup>
+    <Compile Include="C:\Users\Connor\Dropbox\Dev\Workspace\C#\Private\FileIO.cs" />
+    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1000" />
+    <PackageReference Include="System.Reflection.Emit" Version="4.3.0" />
+  </ItemGroup>
+  
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_17.Dynamic</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\bin\Debug\netcoreapp3.1\16.Reflection.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\bin\Debug\netcoreapp3.1\16.Reflection.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\bin\Debug\netcoreapp3.1\16.Reflection.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\bin\Debug\netcoreapp3.1\16.Reflection.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\bin\Debug\netcoreapp3.1\16.Reflection.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\bin\Debug\netcoreapp3.1\16.Reflection.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\obj\Debug\netcoreapp3.1\16.Reflection.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\obj\Debug\netcoreapp3.1\16.Reflection.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\obj\Debug\netcoreapp3.1\16.Reflection.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\obj\Debug\netcoreapp3.1\16.Reflection.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\obj\Debug\netcoreapp3.1\16.Reflection.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\16.Reflection\obj\Debug\netcoreapp3.1\16.Reflection.csproj.CopyComplete

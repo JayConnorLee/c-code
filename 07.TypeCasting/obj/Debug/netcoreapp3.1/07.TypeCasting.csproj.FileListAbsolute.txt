@@ -1,0 +1,11 @@
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\obj\Debug\netcoreapp3.1\07.TypeCasting.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\obj\Debug\netcoreapp3.1\07.TypeCasting.AssemblyInfoInputs.cache
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\obj\Debug\netcoreapp3.1\07.TypeCasting.AssemblyInfo.cs
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\obj\Debug\netcoreapp3.1\07.TypeCasting.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\obj\Debug\netcoreapp3.1\07.TypeCasting.pdb
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\bin\Debug\netcoreapp3.1\07.TypeCasting.exe
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\bin\Debug\netcoreapp3.1\07.TypeCasting.deps.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\bin\Debug\netcoreapp3.1\07.TypeCasting.runtimeconfig.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\bin\Debug\netcoreapp3.1\07.TypeCasting.runtimeconfig.dev.json
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\bin\Debug\netcoreapp3.1\07.TypeCasting.dll
+C:\Users\Connor\Dropbox\Dev\Workspace\C#\Book\07.TypeCasting\bin\Debug\netcoreapp3.1\07.TypeCasting.pdb
