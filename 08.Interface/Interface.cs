@@ -22,6 +22,7 @@ namespace _08.Interface
         public void WriteLog(string message)
         {
             Console.WriteLine("{0}, {1}", DateTime.Now.ToLocalTime(), message);
+            Console.WriteLine("git test");
         }
 
 
